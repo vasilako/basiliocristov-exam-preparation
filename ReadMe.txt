@@ -1,1 +1,1 @@
-Test for GitHub. Second commid
+Test for GitHub. Second commit.
